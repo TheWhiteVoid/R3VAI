@@ -3,7 +3,9 @@
 R3VAI is an experimental AI assistant built by AI, for AI.  
 It focuses on dynamic responses, memory handling, and extensible behavior.
 
-## Download R3VAI.cpp
+## Download R3VAI.cpp or Copy/Paste
+
+### if douwnloaded
 
 ## How It Works
 R3VAI downloads required data files (such as response sets) at runtime.  
