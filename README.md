@@ -1,4 +1,18 @@
 # R3VAI
-An AI for AI, Made by AI. It's useful in life..
 
-You Also need to run it and allow it to download. if it isnt ran with donload permissions it may not work correctly. coded in replit
+R3VAI is an experimental AI assistant built by AI, for AI.  
+It focuses on dynamic responses, memory handling, and extensible behavior.
+
+##Download R3VAI.cpp
+
+## How It Works
+R3VAI downloads required data files (such as response sets) at runtime.  
+These downloads are necessary for proper functionality.
+
+## Requirements
+- Internet connection
+- Download permissions enabled at runtime
+
+## Development
+- Written and tested on Replit
+- Work in progress
