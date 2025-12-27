@@ -164,7 +164,7 @@ int main() {
 
     std::string input;
     while (true) {
-        std::cout << "> ";
+        std::cout << "You: ";
         std::getline(std::cin, input);
 
         if (input == "exit") break;
