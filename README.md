@@ -5,22 +5,24 @@ It focuses on dynamic responses, memory handling, and extensible behavior.
 
 ## Download R3VAI.cpp or Copy/Paste
 
-### if douwnloaded
-It's recommended to open it in visual Studiio on windows, or if Linux compile it then run it
+### If Downloaded
+- Windows: Open in **Visual Studio** and run.  
+- Linux: Compile using `g++ R3VAI.cpp -o R3VAI` and then run `./R3VAI`.
 
 ### If Copy/Pasted
-Paste it into replit then run it
-Paste it into Visual Studio then run it (windows)
-Paste it into your text editor, compile it, run it (Linux
+- Replit: Paste the code and run.  
+- Windows: Paste into **Visual Studio** and run.  
+- Linux: Paste into a text editor, save as `R3VAI.cpp`, then compile and run as above.
 
 ## How It Works
 R3VAI downloads required data files (such as response sets) at runtime.  
 These downloads are necessary for proper functionality.
 
 ## Requirements
-- Internet connection
+- Active internet connection
 - Download permissions enabled at runtime
+- C++ compiler (Visual Studio on Windows, g++ on Linux, or Replit environment)
 
 ## Development
 - Written and tested on Replit
-- Work in progress
+- Actively in development; features may change
